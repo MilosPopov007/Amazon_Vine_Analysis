@@ -32,4 +32,12 @@ I will use PySpark to determine if there is any bias toward favorable reviews fr
 ![This is an image](https://github.com/MilosPopov007/Amazon_Vine_Analysis/blob/main/Resources/Amazon_spark.png)
 
 
-[Bias of Vine Reviews](https://github.com/MilosPopov007/Amazon_Vine_Analysis/blob/main/Vine_Review_Analysis.ipynb)
+[Bias of Vine Reviews](https://github.com/MilosPopov007/Amazon_Vine_Analysis/blob/main/Vine_Review_Analysis.ipynb)<br>
+
+For this analysis using PySpark, we will determine if having a paid Vine review makes a difference in the percentage of 5-star reviews
+* Filter the data and create a new DataFrame or table to retrieve all the rows where the total_votes count is equal to or greater than 20 to pick reviews that are more likely to be helpful
+* Filter the new DataFrame or table created in Step 1 and create a new DataFrame to retrieve all the rows where the number of helpful_votes divided by total_votes is equal to or greater than 50%
+* Filter the DataFrame or table created in Step 2, and create a new DataFrame that retrieves all the rows where a review was written as part of the Vine program (paid)
+* Filter the DataFrame or table created in Step 2, and create a new DataFrame that retrieves all the rows where a review was not part of the Vine program (unpaid)
+* Determine the total number of reviews, the number of 5-star reviews, and the percentage of 5-star reviews for the two types of review (paid vs unpaid)
+
