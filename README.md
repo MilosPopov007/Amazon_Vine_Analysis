@@ -5,3 +5,11 @@
 <br> As a Data Analyst for "Big Market" I was hired to harness that power of Big Data.<br> There are thousands of reviews, and they're words, not numbers, so I will  "translate" them in order to analyze them.
 
 ## Results:
+
+What is Amazon Vine?<br>
+Amazon Vine is an invitation-only program which selects the most insightful reviewers in the Amazon store to serve as Vine Voices.<br> Vine Voices have the unique opportunity to order items free of charge and share their product experiences with Amazon customers to help them make informed buying decisions.
+
+How does it work?<br>
+Once enrolled in Vine, Voices may request products from thousands of brands selling in the Amazon store which are shipped to their doorsteps at no cost.<br> They then use the products and provide insightful reviews that reflect their honest and unbiased opinions - positive, neutral, or negative. Reviews of a product ordered through Vine appear in the same location as other reviews.<br> Amazon Vine reviews are distinguished with this special badge "Vine Customer Review of Free Product" for full transparency.
+Thousands of products from all types of categories are added daily, ensuring that Voices always have something new to try!<br>
+Customers who consistently write insightful reviews are most likely to be invited.<br>To stay in the program, they are expected to share honest and unbiased reviews.
