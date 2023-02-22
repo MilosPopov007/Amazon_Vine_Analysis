@@ -4,6 +4,10 @@
 
 <br> As a Data Analyst for "Big Market" I was hired to harness that power of Big Data.<br> There are thousands of reviews, and they're words, not numbers, so I will  "translate" them in order to analyze them.
 
+
+
+![This is an image](https://github.com/MilosPopov007/Amazon_Vine_Analysis/blob/main/Resources/Amazon_Vine.png)
+
 ## Results:
 
 What is Amazon Vine?<br>
