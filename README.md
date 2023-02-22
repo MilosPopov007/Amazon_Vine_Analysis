@@ -14,4 +14,4 @@ Once enrolled in Vine, Voices may request products from thousands of brands sell
 Thousands of products from all types of categories are added daily, ensuring that Voices always have something new to try!<br>
 Customers who consistently write insightful reviews are most likely to be invited.<br>To stay in the program, they are expected to share honest and unbiased reviews.
 
-I will use PySpark to determine if there is any bias toward favorable reviews from Vine members in Amazon Review datasets.  https://s3.amazonaws.com/amazon-reviews-pds/tsv/index.txt 
+I will use PySpark to determine if there is any bias toward favorable reviews from Vine members in Amazon Review datasets. (US_Camera_reviews will be used)  https://s3.amazonaws.com/amazon-reviews-pds/tsv/index.txt 
