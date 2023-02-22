@@ -44,9 +44,9 @@ For this analysis using PySpark, we will determine if having a paid Vine review 
 ![This is an image](https://github.com/MilosPopov007/Amazon_Vine_Analysis/blob/main/Resources/vine_df.png)
 
 #### Analysis Results : 
-*  Number of paid reviews Vine program was ( 233 )  vs. ( 14468 )   Number of unpaid reviews Non Vine program 
+*  Number of paid reviews for Vine program was ( 233 )  vs. ( 14468 )   Number of unpaid reviews for Non Vine program 
 *  5-star reviews for Vine program (paid) was ( 103 )  vs. ( 7868 )   5-star reviews for non Vine program (unpaid)
-*  Percentage of 5-star reviews for Vine program (paid) was   ( 44.21  %  ) vs. ( 54.38 % ) Percentage of 5-star reviews for Non  Vine program (unpaid)
+*  Percentage of 5-star reviews for Vine program (paid) was   ( 44.21  %  ) vs. ( 54.38 % ) Percentage of 5-star reviews for Non Vine program (unpaid)
 
 
 ### Summary:
