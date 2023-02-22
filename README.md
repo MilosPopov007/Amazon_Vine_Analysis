@@ -27,3 +27,6 @@ I will use PySpark to determine if there is any bias toward favorable reviews fr
 * Transform the data
 * Connect to an AWS RDS instance, and load the transformed data into pgAdmin
 * Using PySpark, to determine if there is any bias towards reviews that were written as part of the Vine program
+
+
+![This is an image](https://github.com/MilosPopov007/Amazon_Vine_Analysis/blob/main/Resources/Amazon_spark.png)
