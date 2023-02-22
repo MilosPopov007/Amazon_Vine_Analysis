@@ -15,3 +15,11 @@ Thousands of products from all types of categories are added daily, ensuring tha
 Customers who consistently write insightful reviews are most likely to be invited.<br>To stay in the program, they are expected to share honest and unbiased reviews.
 
 I will use PySpark to determine if there is any bias toward favorable reviews from Vine members in Amazon Review datasets. (US_Camera_reviews will be used)  https://s3.amazonaws.com/amazon-reviews-pds/tsv/index.txt 
+
+[Perform ETL on Amazon Product Reviews using Pyspark](https://github.com/MilosPopov007/Amazon_Vine_Analysis/blob/main/Amazon_Reviews_ETL.ipynb)
+* First step will be creating  AWS RDS database with tables in pgAdmin
+* Extract the dataset https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Camera_v1_00.tsv.gz into a DataFrame in Pyspark
+* Transform the DataFrame into four separate DataFrames that match the table [schema](https://github.com/MilosPopov007/Amazon_Vine_Analysis/blob/main/challenge_schema.sql) in pgAdmin
+* Transform the data
+* Connect to an AWS RDS instance, and load the transformed data into pgAdmin
+* Using PySpark, to determine if there is any bias towards reviews that were written as part of the Vine program
