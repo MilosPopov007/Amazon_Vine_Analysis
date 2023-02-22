@@ -40,6 +40,9 @@ For this analysis using PySpark, we will determine if having a paid Vine review 
 * Filter the DataFrame or table created in Step 2, and create a new DataFrame that retrieves all the rows where a review was written as part of the Vine program (paid)
 * Filter the DataFrame or table created in Step 2, and create a new DataFrame that retrieves all the rows where a review was not part of the Vine program (unpaid)
 * Determine the total number of reviews, the number of 5-star reviews, and the percentage of 5-star reviews for the two types of review (paid vs unpaid)
+
+![This is an image](https://github.com/MilosPopov007/Amazon_Vine_Analysis/blob/main/Resources/vine_df.png)
+
 #### Analysis Results : 
 *  Number of paid reviews Vine program was ( 233 )  vs. ( 14468 )   Number of unpaid reviews Non Vine program 
 *  5-star reviews for Vine program (paid) was ( 103 )  vs. ( 7868 )   5-star reviews for non Vine program (unpaid)
@@ -47,4 +50,8 @@ For this analysis using PySpark, we will determine if having a paid Vine review 
 
 
 ### Summary:
-* 
+* In the Analysis, the main focus was on the five star reviews. The goal  was to determine if there is a  Bias towards five star reviews,  made by Vine paid members. In other words, I wanted to determine if being paid by Amazon will encourage customers to give more positive reviews vs. ordinary  Amazon customers. Looking at the results, Percentage of 5-star reviews for the Vine program (paid)  (44.21  %) vs. (54.38 %) Percentage of 5-star reviews for the Non Vine program (unpaid) we can conclude that there is No Bias towards positive reviews from Vine members. Vine program did not have any influence on customer review results.
+* If we take Amazon_Reviews_US_Camera FULL DATASET (Total number of reviews: 1801974) we will get the similar results, Percentage of 5-star reviews for the Vine program (paid) was   (41.77  %) vs. (59.05 %) Percentage of 5-star reviews for the Non Vine program (unpaid).
+* In order to get more clear picture of the Amazon Vine program, I suggest to perform similar analysis on more data sets from  https://s3.amazonaws.com/amazon-reviews-pds/tsv/index.txt  (approximately 50 datasets) and make a final conclusion on Amazon Vine Bias Hypothesis.
+
+![This is an image](https://github.com/MilosPopov007/Amazon_Vine_Analysis/blob/main/Resources/vine_total.png)
