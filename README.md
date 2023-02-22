@@ -40,5 +40,11 @@ For this analysis using PySpark, we will determine if having a paid Vine review 
 * Filter the DataFrame or table created in Step 2, and create a new DataFrame that retrieves all the rows where a review was written as part of the Vine program (paid)
 * Filter the DataFrame or table created in Step 2, and create a new DataFrame that retrieves all the rows where a review was not part of the Vine program (unpaid)
 * Determine the total number of reviews, the number of 5-star reviews, and the percentage of 5-star reviews for the two types of review (paid vs unpaid)
+#### Analysis Results : 
+*  Number of paid reviews Vine program was ( 233 )  vs. ( 14468 )   Number of unpaid reviews Non Vine program 
+*  5-star reviews for Vine program (paid) was ( 103 )  vs. ( 7868 )   5-star reviews for non Vine program (unpaid)
+*  Percentage of 5-star reviews for Vine program (paid) was   ( 44.21  %  ) vs. ( 54.38 % ) Percentage of 5-star reviews for Non  Vine program (unpaid)
+
 
 ### Summary:
+* 
