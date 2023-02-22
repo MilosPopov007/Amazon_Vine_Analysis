@@ -30,3 +30,6 @@ I will use PySpark to determine if there is any bias toward favorable reviews fr
 
 
 ![This is an image](https://github.com/MilosPopov007/Amazon_Vine_Analysis/blob/main/Resources/Amazon_spark.png)
+
+
+[Bias of Vine Reviews](https://github.com/MilosPopov007/Amazon_Vine_Analysis/blob/main/Vine_Review_Analysis.ipynb)
