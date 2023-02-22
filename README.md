@@ -13,3 +13,5 @@ How does it work?<br>
 Once enrolled in Vine, Voices may request products from thousands of brands selling in the Amazon store which are shipped to their doorsteps at no cost.<br> They then use the products and provide insightful reviews that reflect their honest and unbiased opinions - positive, neutral, or negative. Reviews of a product ordered through Vine appear in the same location as other reviews.<br> Amazon Vine reviews are distinguished with this special badge "Vine Customer Review of Free Product" for full transparency.
 Thousands of products from all types of categories are added daily, ensuring that Voices always have something new to try!<br>
 Customers who consistently write insightful reviews are most likely to be invited.<br>To stay in the program, they are expected to share honest and unbiased reviews.
+
+I will use PySpark to determine if there is any bias toward favorable reviews from Vine members in Amazon Review datasets.  https://s3.amazonaws.com/amazon-reviews-pds/tsv/index.txt 
